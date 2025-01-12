@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-01-12 12:41+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: de\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/layout.tsx:26
+msgid "Translation Demo"
+msgstr "Übersetzungs Demo"
+
+#. js-lingui-explicit-id
+#: src/app/[lang]/layout.tsx:27
+msgid "A demo of internationalization with Next and Lingui."
+msgstr "Eine Demo von Internationalisierung mit Next und Lingui."
+
+#: src/app/[lang]/page.tsx:50
+msgid "Deploy now"
+msgstr "Jetzt bereitstellen"
+
+#: src/app/[lang]/page.tsx:91
+msgid "Examples"
+msgstr "Beispiele"
+
+#: src/app/[lang]/page.tsx:72
+msgid "File icon"
+msgstr "Datei Icon"
+
+#: src/app/[lang]/page.tsx:23
+msgid "Get started by editing <0>src/app/page.tsx</0>."
+msgstr "Beginne mit der Bearbeitung von <0>src/app/page.tsx</0>."
+
+#: src/app/[lang]/page.tsx:102
+msgid "Globe icon"
+msgstr "Globus Icon"
+
+#: src/app/[lang]/page.tsx:106
+msgid "Go to nextjs.org →"
+msgstr "Gehe zu nextjs.org →"
+
+#: src/app/[lang]/page.tsx:76
+msgid "Learn"
+msgstr "Lernen"
+
+#: src/app/[lang]/page.tsx:16
+msgid "Next.js logo"
+msgstr "Next.js Logo"
+
+#: src/app/[lang]/page.tsx:58
+msgid "Read our docs"
+msgstr "Lies unsere Doku"
+
+#: src/app/[lang]/page.tsx:32
+msgid "Save and see your changes instantly."
+msgstr "Speichere und sieh deine Änderungen in Echtzeit."
+
+#: src/app/[lang]/page.tsx:46
+msgid "Vercel logomark"
+msgstr "Vercel Markenlogo"
+
+#: src/app/[lang]/page.tsx:87
+msgid "Window icon"
+msgstr "Fenster Icon"
